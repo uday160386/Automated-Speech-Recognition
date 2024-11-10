@@ -1,0 +1,7 @@
+SpeechRecognition
+joblib
+fastapi[standard]
+uvicorn
+azure.storage.blob
+soundfile
+numpy
